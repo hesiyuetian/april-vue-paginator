@@ -58,7 +58,7 @@ export default {
     },
     totalRow: {
       type: [Number,String],
-      default: 100
+      default: 10
     },
     textAlign: {
       type: String,

@@ -1,10 +1,9 @@
 {
-  "name": "april-paginator",
+  "name": "april-vue-paginator",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "hesiyuetian <15538535392@163.com>",
   "license": "MIT",
-  "?private": true,
   "private": false,
 
   "main": "dist/april-vue-paginator.js", 
