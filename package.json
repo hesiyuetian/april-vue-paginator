@@ -10,9 +10,8 @@
   "main": "dist/april-vue-paginator.js", 
   "repository": {
     "type": "git",
-    "url": "https://github.com/yucccc/vue-pay-keyboard"
+    "url": "https://github.com/hesiyuetian/april-vue-paginator"
   },
-
 
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
